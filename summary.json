@@ -1,5 +1,5 @@
 {
-  "dashboardGeneratedTime": "Thu Jan 31 14:27:09 SGT 2019",
+  "dashboardGeneratedTime": "Thu Jan 31 14:39:00 SGT 2019",
   "repos": [
     {
       "location": {
@@ -9,6 +9,15 @@
       },
       "branch": "master",
       "displayName": "reposense_RepoSense_master"
+    },
+    {
+      "location": {
+        "location": "https://github.com/reposense/testrepo-Delta.git",
+        "repoName": "testrepo-Delta",
+        "organization": "reposense"
+      },
+      "branch": "master",
+      "displayName": "reposense_testrepo-Delta_master"
     },
     {
       "location": {
