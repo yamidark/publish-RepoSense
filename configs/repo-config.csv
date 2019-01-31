@@ -1,3 +1,4 @@
 Repository's Location,Branch,File Formats,Ignore Glob List,Ignore standalone config,Ignore Commit List
 https://github.com/reposense/RepoSense.git,master,,,,
+https://github.com/reposense/testrepo-Delta.git,master,,,,
 https://github.com/se-edu/addressbook-level4.git,master,,,,
